@@ -1,4 +1,4 @@
-[width="100%",cols="^,^,2^,4m",frame="topbot",options="header"]
+[width="100%",cols="^,^,^,10m",frame="topbot",options="header"]
 |===
 |序号 |中文 |英文翻译词 |待讨论英文翻译词
 |1	|生	|pro |

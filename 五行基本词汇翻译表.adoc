@@ -1,4 +1,4 @@
-[width="100%",cols="^,^,^,4m",frame="topbot",options="header"]
+[width="100%",cols="^,^,2^,4m",frame="topbot",options="header"]
 |===
 |序号 |中文 |英文翻译词 |待讨论英文翻译词
 |1	|生	|pro |
@@ -36,4 +36,153 @@
 |33	|伏吟	|double roots		 |
 |34	|自刑	|ultra double roots		 |
 |35	|六合	|coupled		 |
-|36	|三合	|tr
+|36	|三合	|tri-ed		 |
+|37	|三会	|tri-folked		 |
+|38	|三合局	|trio-set		 |
+|39	|三会局	|tri-folk set		 |
+|40	|六合局	|couple set		 |
+|41	|拱合局	|bridging set		 |
+|42	|半合局	|semi set		 |
+|43	|时间局	|time set		 |
+|44	|局	|set		 |
+|45	|半合	|semi~		 |
+|46	|天干五合 |stem couple		 |
+|47	|地支六合 |root couple		 |
+|48	|将星/君 |leader		 |
+|49	|群众/民 |follower		 |
+|50	|干部/臣 |executive		 |
+|51	|根	|root-stemed		 |
+|52	|透	|stem-rooted		 |
+|53	|禄	|stem-cored		 |
+|54	|阳（羊）刃 |Yang blade		 |
+|55	|伤	|wound		 |
+|56	|病	|ill		 |
+|57	|缺	|short		 |
+|58	|金	|metal		 |
+|59	|木	|wood		 |
+|60	|水	|water		 |
+|61	|火	|fire		 |
+|62	|土	|earth		 |
+|63	|甲	|Jia |十天干和十二地支书写方式：英文+中文（Jia甲）
+|64	|乙	|Yi		 |
+|65	|丙	|Bing		 |
+|66	|丁	|Ding		 |
+|67	|戊	|Woo		 |
+|68	|己	|Ji		 |
+|69	|庚	|Geng		 |
+|70	|辛	|Xin		 |
+|71	|壬	|Ren		 |
+|72	|癸	|Gui		 |
+|73	|子	|Zi		 |
+|74	|丑	|Chou		 |
+|75	|寅	|Yin		 |
+|76	|卯	|Mao		 |
+|77	|辰	|Chen		 |
+|78	|巳	|Si		 |
+|79	|午	|Wum		 |
+|80	|未	|Wei		 |
+|81	|申	|Shen		 |
+|82	|酉	|You		 |
+|83	|戌	|Xu		 |
+|84	|亥	|Hai		 |
+|85	|九宫	|Nine Houses		 |
+|86	|宫位 |house		 |
+|87	|祖辈宫 |         	ancestral house		 |
+|88	|父母宫 |         	parental house		 |
+|89	|夫妻宫 |         	spousal house		 |
+|90	|子息宫 |         	decentral house		 |
+|91	|星位   |         	stage		 |
+|92	|体     |         	body		 |
+|93	|用     |         	embody		 |
+|94	|主     |         	subject/subjective		 |
+|95	|客     |         	object/objective		 |
+|96	|境域   |         	concept		 |
+|97	|空境域 |         	null		 |
+|98	|意向   |         	tendency		 |
+|99	|流年   |         	years/running years		 |
+|100	|大运   |         	episode		 |
+|101	|应期   |         	trigger (off)		 |
+|102	|时间窗口 |       	time window		 |
+|103	|生       |       	pro		 |
+|104	|化       |               	convert		 |
+|105	|返       |       	revert		 |
+|106	|象法 |projections method		 |
+|107	|理法	|reasoning method		 |
+|108	|技法	|pin method		 |
+|109	|心法	|enlightening method		 |
+|110	|命理学 |predestinology		 |
+|111	|人生导航 |life mapping		 |
+|112	|排盘 |time-set calculation		 |
+|113	|时间 |time		 |
+|114	|空间	|space		 |
+|115	|运动	|movement(s)		 |
+|116	|物质 |substance		 |
+|117	|冷 |cold		 |
+|118	|热 |hot		 |
+|119	|寒 |chill		 |
+|120	|暖/温 |warm		 |
+|121	|凉 |cool		 |
+|122	|燥 |dry		 |
+|123	|湿 |wet		 |
+|124	|润 |moistured		 |
+|125	|有情 |friendly		 |
+|126	|无情	|not-friendly		 |
+|127	|亢悔	|over and under		 |
+|128	|凋侯	|climate conditioning		 |
+|129	|整体	|totality		 |
+|130	|局部	|locality		 |
+|131	|宜 |suggested /to-do		 |
+|132	|忌 |not-suggested /not-to-do		 |
+|133	|顺 |go with		 |
+|134	|逆 |go against		 |
+|135	|显 |visible		 |
+|136	|隐 |invisible		 |
+|137	|太极点 |the based ONE		 |
+|138	|八卦	|eight tri-grams		 |
+|139	|卦相	|tri-grams		 |
+|140	|十二长生宫 |twelve life-stages		 |
+|141	|三元九运 |Three Rounds and nine stages		 |
+|142	|有 |Substance |any
+|143	|无 |Non- Substance |none
+|144	|六十甲子 |cycle hex-decades		 |
+|145	|长生	|new-born		 |
+|146	|沐浴	|baptize		 |
+|147	|冠带	|dress up		 |
+|148	|临官	|take office		 |
+|149	|帝旺	|tip top		 |
+|150	|衰 |recess		 |
+|151	|病 |sick		 |
+|152	|死 |dead		 |
+|153	|墓 |tomb		 |
+|154	|绝 |extingnished		 |
+|155	|胎 |conceive		 |
+|156	|养 |incubate		 |
+|157	|开库 |store opening 		 |
+|158	|入库 |store-in		 |
+|159	|入墓 |tomb-in		 |
+|160	|成局	|make a set		 |
+|161	|论局	|discuss a timeset |discuss a timeset
+|162	|十神	|The Relations		 |
+|163	|六亲	|Relatives		 |
+|164	|正印	|Motherhood		 |
+|165	|偏印	|Compelling Motherhood		 |
+|166	|正财	|Gain		 |
+|167	|骗财	|One-off Gain		 |
+|168	|正官	|Boss		 |
+|169	|偏官	|Deputy Boss		 |
+|170	|煞   |Tyran		 |
+|171	|伤官	|Outlaws		 |
+|172	|食神	|Gourmet		 |
+|173	|比劫	|Siblings		 |
+|174	|比肩 |Brotherhood		 |
+|175	|劫财	|Sisterhood		 |
+|176	|异性	|hetero		 |
+|177	|同性	|homo		 |
+|178	|相位	|set position		 |
+|179	|即时局 |present time set		 |
+|180	|数 |number		 |
+|181	|数法 |numerology		 |
+|182	|像 |picto		 |
+|183	|像法 |pictology		 |
+|184	|万物 |Everything		 |
+|===
